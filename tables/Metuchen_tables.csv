@@ -1,0 +1,170 @@
+Grade,Subject,Latest Results,22-23 Form A,22-23 Form B,22-23 Form C,23-24 Form A,23-24 Form B,23-24 Form C
+5,Language Arts,2021-08-18,0,0,0,0,0,0
+6,Language Arts,2023-10-02,167,169,167,208,0,0
+6,Math,2023-09-22,202,152,149,165,0,0
+7,Language Arts,2023-10-04,195,196,196,170,0,0
+7,Math,2023-10-27,254,190,188,195,0,0
+8,Language Arts,2023-10-10,185,186,189,197,0,0
+8,Math,2023-09-27,189,100,104,110,0,0
+6-8,Algebra I,2023-09-22,185,91,92,76,0,0
+6-8,Geometry,2023-09-22,48,24,24,30,0,0
+9-12,Algebra I,2023-10-27,96,81,83,90,0,0
+9-12,Algebra II,2023-10-31,145,147,149,170,0,0
+9-12,English I,2023-09-29,220,164,161,176,0,0
+9-12,English II,2023-09-29,166,174,173,161,0,0
+9-12,English III,2023-09-26,139,170,171,169,0,0
+9-12,Geometry,2023-10-27,147,153,150,149,0,0
+
+School,Grade,Subject,Latest Results,22-23 Form A,22-23 Form B,22-23 Form C,23-24 Form A,23-24 Form B,23-24 Form C
+Edgar Middle School,5,Language Arts,2021-08-18,0,0,0,0,0,0
+Edgar Middle School,6,Language Arts,2023-10-02,167,169,167,208,0,0
+Edgar Middle School,6,Math,2023-09-22,202,152,149,165,0,0
+Edgar Middle School,7,Language Arts,2023-10-04,195,196,196,170,0,0
+Edgar Middle School,7,Math,2023-10-27,254,190,188,195,0,0
+Edgar Middle School,8,Language Arts,2023-10-10,185,186,189,197,0,0
+Edgar Middle School,8,Math,2023-09-27,189,100,104,110,0,0
+Edgar Middle School,6-8,Algebra I,2023-09-22,185,91,92,76,0,0
+Edgar Middle School,6-8,Geometry,2023-09-22,48,24,24,30,0,0
+Metuchen High School,8,Language Arts,2021-08-26,0,0,0,0,0,0
+Metuchen High School,9-12,Algebra I,2023-10-27,96,81,83,90,0,0
+Metuchen High School,9-12,Algebra II,2023-10-31,145,147,149,170,0,0
+Metuchen High School,9-12,English I,2023-09-29,220,164,161,176,0,0
+Metuchen High School,9-12,English II,2023-09-29,166,174,173,161,0,0
+Metuchen High School,9-12,English III,2023-09-26,139,170,171,169,0,0
+Metuchen High School,9-12,Geometry,2023-10-27,147,153,150,149,0,0
+
+School,Grade,Subject,Teacher,Class,23-24 Form A,23-24 Form B,23-24 Form C
+Edgar Middle School,6,Language Arts,"Bruno, Kristin",ELA 6 2,24,0,0
+Edgar Middle School,6,Language Arts,"Bruno, Kristin",ELA 6 4,18,0,0
+Edgar Middle School,6,Language Arts,"Dwyer, Rebecca",ELA 6 RC 1,9,0,0
+Edgar Middle School,6,Language Arts,"Dwyer, Rebecca",ELA 6 RC 2,9,0,0
+Edgar Middle School,6,Language Arts,"Forde, Caroline",ELA 6 6,24,0,0
+Edgar Middle School,6,Language Arts,"Forde, Caroline",ELA 6 Adv 1,28,0,0
+Edgar Middle School,6,Language Arts,"Palmer, Suzanne",ELA 6 1,22,0,0
+Edgar Middle School,6,Language Arts,"Palmer, Suzanne",ELA 6 Adv 2,28,0,0
+Edgar Middle School,6,Language Arts,"Rescorl, Allyson",ELA 6 3,23,0,0
+Edgar Middle School,6,Language Arts,"Rescorl, Allyson",ELA 6 5,23,0,0
+Edgar Middle School,6,Math,"Albanese, Edward",Math 6 ADV 1,26,0,0
+Edgar Middle School,6,Math,"Hughes, Jeanne",Math 6 RC 1,6,0,0
+Edgar Middle School,6,Math,"Hughes, Jeanne",Math 6 RC 2,9,0,0
+Edgar Middle School,6,Math,"Logan, Karen",Math 6 1,18,0,0
+Edgar Middle School,6,Math,"Logan, Karen",Math 6 2,20,0,0
+Edgar Middle School,6,Math,"Logan, Karen",Math 6 ADV 2,22,0,0
+Edgar Middle School,6,Math,"Logan, Karen",Math 6 ADV 3,25,0,0
+Edgar Middle School,6,Math,"Mruczinski, Paul",Math 6 3,20,0,0
+Edgar Middle School,6,Math,"Mruczinski, Paul",Math 6 4,19,0,0
+Edgar Middle School,7,Language Arts,"Agnone, Andrea",ELA 7 RC 1,6,0,0
+Edgar Middle School,7,Language Arts,"Agnone, Andrea",ELA 7 RC 2,8,0,0
+Edgar Middle School,7,Language Arts,"Donohue, Linda",ELA 7 1,21,0,0
+Edgar Middle School,7,Language Arts,"Donohue, Linda",ELA 7 3,15,0,0
+Edgar Middle School,7,Language Arts,"Donohue, Linda",ELA 7 Adv 1,22,0,0
+Edgar Middle School,7,Language Arts,"Donohue, Linda",ELA 7 Adv 3,24,0,0
+Edgar Middle School,7,Language Arts,"Elton, Andrea",ELA 7 2,20,0,0
+Edgar Middle School,7,Language Arts,"Elton, Andrea",ELA 7 4,15,0,0
+Edgar Middle School,7,Language Arts,"Elton, Andrea",ELA 7 5,17,0,0
+Edgar Middle School,7,Language Arts,"Elton, Andrea",ELA 7 Adv 2,22,0,0
+Edgar Middle School,7,Math,"Albanese, Edward",Math 7 1,21,0,0
+Edgar Middle School,7,Math,"Albanese, Edward",Math 7 2,16,0,0
+Edgar Middle School,7,Math,"Connors, Shannon",Math 7 3,21,0,0
+Edgar Middle School,7,Math,"Connors, Shannon",Math 7 4,18,0,0
+Edgar Middle School,7,Math,"Connors, Shannon",Pre-Algebra 1,19,0,0
+Edgar Middle School,7,Math,"Connors, Shannon",Pre-Algebra 2,25,0,0
+Edgar Middle School,7,Math,"Connors, Shannon",Pre-Algebra 3,22,0,0
+Edgar Middle School,7,Math,"Hughes, Jeanne",Math 7 RC 1,7,0,0
+Edgar Middle School,7,Math,"Mruczinski, Paul",Pre-Algebra 6 1,23,0,0
+Edgar Middle School,7,Math,"Mruczinski, Paul",Pre-Algebra 6 2,23,0,0
+Edgar Middle School,8,Language Arts,"Dugasz, Alyssa",ELA 8 1,21,0,0
+Edgar Middle School,8,Language Arts,"Dugasz, Alyssa",ELA 8 2,20,0,0
+Edgar Middle School,8,Language Arts,"Dugasz, Alyssa",ELA 8 3,23,0,0
+Edgar Middle School,8,Language Arts,"Dugasz, Alyssa",ELA 8 5,21,0,0
+Edgar Middle School,8,Language Arts,"Kaye, Lindsay",ELA 8 RC 1,9,0,0
+Edgar Middle School,8,Language Arts,"Scala, Lauren",ELA 8 4,26,0,0
+Edgar Middle School,8,Language Arts,"Scala, Lauren",ELA 8 Adv 1,26,0,0
+Edgar Middle School,8,Language Arts,"Scala, Lauren",ELA 8 Adv 2,24,0,0
+Edgar Middle School,8,Language Arts,"Scala, Lauren",ELA 8 Adv 3,26,0,0
+Edgar Middle School,8,Language Arts,"Wolford, Alexis",ELA SC 2,1,0,0
+Edgar Middle School,8,Math,"Kennedy, Danielle",Pre Alg 8 2,24,0,0
+Edgar Middle School,8,Math,"Kennedy, Danielle",Pre Alg 8 4,15,0,0
+Edgar Middle School,8,Math,"Kremer, Christine",Pre Alg 8 1,18,0,0
+Edgar Middle School,8,Math,"Kremer, Christine",Pre Alg 8 3,23,0,0
+Edgar Middle School,8,Math,"Kremer, Christine",Pre Alg 8 5,16,0,0
+Edgar Middle School,8,Math,"McLaughlin, Beth",Math 8 RC 1,8,0,0
+Edgar Middle School,8,Math,"McLaughlin, Beth",Math 8 RC 2,6,0,0
+Edgar Middle School,6-8,Algebra I,"Albanese, Edward",Algebra 1 1,21,0,0
+Edgar Middle School,6-8,Algebra I,"Kennedy, Danielle",Algebra 1 1,16,0,0
+Edgar Middle School,6-8,Algebra I,"Kennedy, Danielle",Algebra 1 2,18,0,0
+Edgar Middle School,6-8,Algebra I,"Kennedy, Danielle",Algebra 1 3,21,0,0
+Edgar Middle School,6-8,Geometry,"Kremer, Christine",Geometry 1,16,0,0
+Edgar Middle School,6-8,Geometry,"Kremer, Christine",Geometry 2,14,0,0
+Metuchen High School,9-12,Algebra I,"Sobieniak, Tomasz",Algebra 1 1,17,0,0
+Metuchen High School,9-12,Algebra I,"Sobieniak, Tomasz",Algebra 1 2,18,0,0
+Metuchen High School,9-12,Algebra I,"Warnock, Michael",Algebra 1 3,23,0,0
+Metuchen High School,9-12,Algebra I,"Warnock, Michael",Algebra 1 4,12,0,0
+Metuchen High School,9-12,Algebra I,"Warnock, Michael",Algebra 1 5,20,0,0
+Metuchen High School,9-12,Algebra II,"Caponigro, Emily",Algebra 2 4,25,0,0
+Metuchen High School,9-12,Algebra II,"Caponigro, Emily",Algebra 2 5,19,0,0
+Metuchen High School,9-12,Algebra II,"Reisman, Jaclyn",Math Explorations 1,8,0,0
+Metuchen High School,9-12,Algebra II,"Sobieniak, Tomasz",Algebra 2 2,18,0,0
+Metuchen High School,9-12,Algebra II,"Sobieniak, Tomasz",Algebra 2 3,10,0,0
+Metuchen High School,9-12,Algebra II,"Stranz, Jennifer",Algebra 2 1,14,0,0
+Metuchen High School,9-12,Algebra II,"Stranz, Jennifer",H Algebra 2 1,21,0,0
+Metuchen High School,9-12,Algebra II,"Stranz, Jennifer",H Algebra 2 2,19,0,0
+Metuchen High School,9-12,Algebra II,"Stranz, Jennifer",H Algebra 2 3,15,0,0
+Metuchen High School,9-12,Algebra II,"Stranz, Jennifer",H Algebra 2 4,21,0,0
+Metuchen High School,9-12,English I,"Baird, Alexa",Honors English 9 1,17,0,0
+Metuchen High School,9-12,English I,"Baird, Alexa",Honors English 9 2,21,0,0
+Metuchen High School,9-12,English I,"Baird, Alexa",Honors English 9 3,15,0,0
+Metuchen High School,9-12,English I,"Deminski, Aubree",English 1 1,5,0,0
+Metuchen High School,9-12,English I,"Jacobi, Jacquelyn",English 9 2,15,0,0
+Metuchen High School,9-12,English I,"Jacobi, Jacquelyn",English 9 5,22,0,0
+Metuchen High School,9-12,English I,"Kim, Lauren",English 9 3,18,0,0
+Metuchen High School,9-12,English I,"Kim, Lauren",English 9 4,12,0,0
+Metuchen High School,9-12,English I,"Kim, Lauren",English 9 6,10,0,0
+Metuchen High School,9-12,English I,"Shorr, Amanda",English 9 1,14,0,0
+Metuchen High School,9-12,English I,"Sutin, Matthew",Honors English 9 4,27,0,0
+Metuchen High School,9-12,English II,"Deminski, Aubree",English 2 1,7,0,0
+Metuchen High School,9-12,English II,"Gesumaria, Jessica",English 10 1,18,0,0
+Metuchen High School,9-12,English II,"Kim, Lauren",English 10 2,21,0,0
+Metuchen High School,9-12,English II,"Sutin, Matthew",English 10 3,15,0,0
+Metuchen High School,9-12,English II,"Sutin, Matthew",English 10 4,11,0,0
+Metuchen High School,9-12,English II,"Wagenblast, Eileen",Honors English 10 1,21,0,0
+Metuchen High School,9-12,English II,"Wagenblast, Eileen",Honors English 10 2,21,0,0
+Metuchen High School,9-12,English II,"Wagenblast, Eileen",Honors English 10 3,22,0,0
+Metuchen High School,9-12,English II,"Wagenblast, Eileen",Honors English 10 4,25,0,0
+Metuchen High School,9-12,English III,"Baird, Alexa",AP Eng Lang & Comp 1,18,0,0
+Metuchen High School,9-12,English III,"Deminski, Aubree",English 3 1,9,0,0
+Metuchen High School,9-12,English III,"Deminski, Aubree",English 3 2,1,0,0
+Metuchen High School,9-12,English III,"Gesumaria, Jessica",English 11 2,18,0,0
+Metuchen High School,9-12,English III,"Gesumaria, Jessica",English 11 3,8,0,0
+Metuchen High School,9-12,English III,"Kim, Lauren",English 11 1,8,0,0
+Metuchen High School,9-12,English III,"Levy, Adam",Honors English 11 1,19,0,0
+Metuchen High School,9-12,English III,"Levy, Adam",Honors English 11 2,23,0,0
+Metuchen High School,9-12,English III,"Levy, Adam",Honors English 11 3,26,0,0
+Metuchen High School,9-12,English III,"Sutin, Matthew",English 11 4,14,0,0
+Metuchen High School,9-12,English III,"Sutin, Matthew",English 11 5,9,0,0
+Metuchen High School,9-12,English III,"Wagenblast, Eileen",AP Eng Lang & Comp 2,16,0,0
+Metuchen High School,9-12,Geometry,"Caponigro, Emily",H Plane/Solid Geo 1,24,0,0
+Metuchen High School,9-12,Geometry,"Caponigro, Emily",H Plane/Solid Geo 2,26,0,0
+Metuchen High School,9-12,Geometry,"Caponigro, Emily",H Plane/Solid Geo 3,18,0,0
+Metuchen High School,9-12,Geometry,"Cundari, Richard",Plane Geometry 2,21,0,0
+Metuchen High School,9-12,Geometry,"Cundari, Richard",Plane Geometry 3,25,0,0
+Metuchen High School,9-12,Geometry,"Reisman, Jaclyn",Principles of Geometry 1,11,0,0
+Metuchen High School,9-12,Geometry,"Warnock, Michael",Plane Geometry 1,24,0,0
+
+Grade,Subject,19-20 A,19-20 B,19-20 C,20-21 A,20-21 B,20-21 C,21-22 A,21-22 B,21-22 C,22-23 A,22-23 B,22-23 C,23-24 A,23-24 B,23-24 C
+5,Language Arts,187,187,0,0,0,5,0,0,0,0,0,0,0,0,0
+6,Language Arts,179,177,0,190,190,191,190,189,193,167,169,167,208,0,0
+6,Math,163,162,0,171,169,167,162,164,167,202,152,149,165,0,0
+7,Language Arts,173,171,0,179,176,176,182,179,181,195,196,196,170,0,0
+7,Math,163,161,0,177,181,179,187,186,186,254,190,188,195,0,0
+8,Language Arts,176,177,0,180,181,196,172,172,172,185,186,189,197,0,0
+8,Math,73,73,0,86,86,86,86,87,88,189,100,104,110,0,0
+6-8,Algebra I,111,111,0,87,87,85,93,92,92,185,91,92,76,0,0
+6-8,Geometry,18,18,0,25,25,25,15,15,15,48,24,24,30,0,0
+9-12,Algebra I,132,71,0,65,70,81,77,73,76,96,81,83,90,0,0
+9-12,Algebra II,178,176,0,180,182,184,171,169,75,145,147,149,170,0,0
+9-12,English I,0,0,0,174,169,175,167,160,165,220,164,161,176,0,0
+9-12,English II,0,0,0,174,176,172,172,174,173,166,174,173,161,0,0
+9-12,English III,0,0,0,191,186,186,183,175,1,139,170,171,169,0,0
+9-12,Geometry,186,182,0,141,151,151,135,136,138,147,153,150,149,0,0
+

@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# Define your SQL Server connection parameters
+server="10.252.24.190"
+database="AdminReporting"
+user="jacko"
+password="e)&ZxsjY6Z2&5&v["
+
+# Directory containing SQL script files
+script_dir="table_scripts"
+tables_dir="tables"
+
+# Loop through SQL script files in the directory
+for script_file in "$script_dir"/*.sql; do
+    if [ -f "$script_file" ]; then
+        # Extract the filename without extension
+        filename_noext=$(basename "$script_file" .sql)
+        
+        # Define the output CSV file
+        output_csv="$tables_dir/$filename_noext.csv"
+
+        # Connect to SQL Server, execute the script, and output to CSV
+        sqlcmd -S "$server" -d "$database" -U "$user" -P "$password" -i "$script_file" -o "$output_csv" -s "," -W
+
+        # execute a python program
+        python remove_messages.py $output_csv
+
+        if [ $? -eq 0 ]; then
+            echo "Script $script_file executed successfully and results saved to $output_csv"
+        else
+            echo "Error executing script $script_file"
+        fi
+    fi
+done
