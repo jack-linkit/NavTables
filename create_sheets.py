@@ -9,37 +9,39 @@ PASSWORD="x!&f7QKDm(VZCtj3"
 
 # Establish a connection
 print('Establishing connecttion...')
-conn = pyodbc.connect(f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={SERVER};DATABASE={DATABASE};UID={USER};PWD={PASSWORD}')
+conn = pyodbc.connect(f'DRIVER={{ODBC Driver 18 for SQL Server}};SERVER={SERVER};DATABASE={DATABASE};UID={USER};PWD={PASSWORD};TrustServerCertificate=yes')
 print('Connection established.')
-
-# Create a cursor
-cursor = conn.cursor()
 
 parent_folder = sys.argv[1]
 output_folder = sys.argv[2]
-# List of script files
-scripts = ['Class.sql', 'District.sql', 'School.sql', 'Historical.sql']
+scripts_folder = parent_folder + '/Tables'
 
-# Execute each script
-for i, script_file in enumerate(scripts):
-    print(f'Current file: {script_file}...')
-    # setup file comes from output folder, others come from template folder
-    if i == 0:
-        script_path = output_folder + '/' + script_file
-    else:
-        script_path = parent_folder + '/' + script_file
+scripts = [f'{output_folder}/Setup.sql', f'{scripts_folder}/District.sql']
+try:
+    # Create a cursor
+    cursor = conn.cursor()
 
-    with open(script_file, 'r') as file:
-        script = file.read()
-    cursor.execute(script)
+    # Execute each script
+    for i, script_path in enumerate(scripts):
+        # setup file comes from output folder, others come from template folder
+        print(f'Current file: {script_path}...')
+
+        with open(script_path, 'r') as file:
+            script = file.read()
+        cursor.execute(script)
 
     # if it is not the setup file, output to csv
-    if i > 0:
-        df = pd.read_sql(script, conn)
-        table_type = script_file.split('.')[0]
+    if i == 0:
+        conn.commit()
+    else:
+        rows = cursor.fetchall()
+        df = pd.DataFrame.from_records(rows, columns=[column[0] for column in cursor.description])
+        table_type = script_path.split('.')[0].split('/')[-1]
+        print(table_type)
         df.to_csv(f'{output_folder}/{table_type}.csv', index=False)
 
-# Close the connection
-conn.close()
-
-print('Connection closed.')
+finally:
+    # Close the connection
+    cursor.close()
+    conn.close()
+    print('Connection closed.')
